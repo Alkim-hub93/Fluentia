@@ -1,0 +1,16 @@
+FLUENTIA: use it like an app on iPhone / iPad
+
+1) Put this whole folder on a free web host (HTTPS is required for installing):
+   - Netlify Drop: go to app.netlify.com/drop and drag this folder onto the page.
+   - or GitHub Pages / Cloudflare Pages: upload the files, keep them in the same folder.
+2) On your iPhone or iPad, open the web address in SAFARI.
+3) Tap the Share button, then "Add to Home Screen", then Add.
+   Fluentia now opens full screen from its own icon, and works offline after the first visit.
+
+Notes
+- Your progress is saved on the device (in the browser's storage). Clearing website data erases it.
+- Microphone practice (Speaking and spoken role-play replies) works when Fluentia is opened in Safari.
+  iOS does not allow speech recognition inside Home Screen apps; everything else works there.
+  Turn on Dictation in Settings > General > Keyboard if the microphone is blocked.
+- Android: open the address in Chrome, then menu > Install app.
+- Desktop: you can also just double-click index.html (Chrome, Edge, Safari). It needs no server.
